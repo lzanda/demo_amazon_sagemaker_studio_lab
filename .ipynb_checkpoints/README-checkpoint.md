@@ -1,1 +1,0 @@
-# demo_amazon_sagemaker_studio_lab
